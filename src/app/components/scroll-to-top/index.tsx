@@ -32,14 +32,12 @@ export default function ScrollToTop() {
   return (
     <div className="fixed bottom-8 right-8 z-999">
       <div className="flex items-center gap-2.5">
-        <Link href={"https://getnextjstemplates.com/products/avenue-pro-nextjs-travel-website-template"} target="_blank" className="hidden lg:block bg-purple_blue text-sm hover:bg-purple_blue/90 text-white px-4 py-3.5 leading-none rounded-lg font-medium text-nowrap">
-          Get This Template
-        </Link>
+        
         {isVisible && (
           <div
             onClick={scrollToTop}
             aria-label="scroll to top"
-            className="back-to-top flex h-10 w-10 cursor-pointer items-center justify-center rounded-md bg-purple_blue text-white shadow-md transition duration-300 ease-in-out hover:bg-dark"
+            className="back-to-top flex h-10 w-10 cursor-pointer items-center justify-center rounded-md bg-black text-white shadow-md transition duration-300 ease-in-out hover:bg-dark"
           >
             <span className="mt-[6px] h-3 w-3 rotate-45 border-l border-t border-white"></span>
           </div>

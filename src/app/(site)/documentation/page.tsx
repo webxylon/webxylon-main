@@ -5,7 +5,7 @@ import { PackageStructure } from '@/app/components/documentation/PackageStructur
 import { QuickStart } from '@/app/components/documentation/QuickStart'
 import { Metadata } from 'next'
 export const metadata: Metadata = {
-  title: 'Documentation | Awake Agency',
+  title: 'Documentation | Webxylon',
 }
 
 export default function Page() {

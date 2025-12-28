@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 export const metadata: Metadata = {
-    title: "Terms & Condition | Awake Agency",
+    title: "Terms & Condition | Webxylon",
 };
 
 export default function Page() {

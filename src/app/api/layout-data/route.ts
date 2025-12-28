@@ -9,18 +9,18 @@ const headerData = [
 
 const footerData = {
     brand: {
-        name: "Awake",
+        name: "Webxylon",
         tagline: "Empowering businesses with innovative solutions. Let's create something amazing together.",
         socialLinks: [
             {
                 icon: "/images/home/footerSocialIcon/twitter.svg",
                 dark_icon: "/images/home/footerSocialIcon/twitter_dark.svg",
-                link: "https://twitter.com"
+                link: "https://x.com/webxylon?fbclid=PAb21jcAO7ffhleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacKv2Ex0BNZ9N4iKsC7vfvwq9N-BGC2oBrevrDawTdHVepQrGyWwE8BD2cBQg_aem_ZP7rD9YwdWUYLQrGJN_8CA"
             },
             {
                 icon: "/images/home/footerSocialIcon/linkedin.svg",
                 dark_icon: "/images/home/footerSocialIcon/linkedin_dark.svg",
-                link: "https://linkedin.com/in"
+                link: "https://www.linkedin.com/company/webxylon/?viewAsMember=true&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAO7fjdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaesPYIeWkRHgGb7tKddPO9G_jzv7p-iQmhgVWAjFXBg-bsEeLMvedPlzL82Xg_aem_n4DEAq5Fc_-Q3G4WkNm1eg"
             },
             {
                 icon: "/images/home/footerSocialIcon/dribble.svg",
@@ -30,7 +30,7 @@ const footerData = {
             {
                 icon: "/images/home/footerSocialIcon/instagram.svg",
                 dark_icon: "/images/home/footerSocialIcon/instagram_dark.svg",
-                link: "https://instagram.com"
+                link: "https://www.instagram.com/webxylon"
             }
         ]
     },
@@ -38,28 +38,15 @@ const footerData = {
         name: "Sitemap",
         links: [
             { name: "Contact us", url: "/contact" },
-            { name: "About us", url: "/#aboutus" },
-            { name: "Work", url: "/#work" },
-            { name: "Services", url: "/#services" },
-            { name: "Pricing", url: "/#pricing" }
-        ]
-    },
-    otherPages: {
-        name: "Other Pages",
-        links: [
-            { name: "Error 404", url: "/not-found" },
-            { name: "Terms & Conditions", url: "/terms-and-conditions" },
-            { name: "Privacy Policy", url: "/privacy-policy" },
-            { name: "Documentation", url: "/documentation" }
+            { name: "About us", url: "/#aboutus" }
         ]
     },
     contactDetails: {
         name:"Contact Details",
-        address: "81 Rivington Street London EC2A 3AY",
-        email: "hello@awake.agency",
-        phone: "0105 192 3556"
+        address: "Ward no - 4, Khajpur Purana, Jhunjhunu",
+        email: "webxylon@gmail.com",
     },
-    copyright: "©2025 Awake. All Rights Reserved"
+    copyright: "©2025 Webxylon. All Rights Reserved"
 };
 
 export const GET = async () => {
