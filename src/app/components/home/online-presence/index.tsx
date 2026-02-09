@@ -63,7 +63,7 @@ function OnlinePresence() {
                       className='rounded-2xl'
                     />
                     <Link
-                      href={'https://www.framer.com/@wrap-pixel/'}
+                      href="#"
                       target='_blank'
                       className='absolute top-0 left-0 bg-black/50 w-full h-full rounded-2xl hidden group-hover:flex'
                     >

@@ -23,11 +23,6 @@ const footerData = {
                 link: "https://www.linkedin.com/company/webxylon/?viewAsMember=true&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAO7fjdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaesPYIeWkRHgGb7tKddPO9G_jzv7p-iQmhgVWAjFXBg-bsEeLMvedPlzL82Xg_aem_n4DEAq5Fc_-Q3G4WkNm1eg"
             },
             {
-                icon: "/images/home/footerSocialIcon/dribble.svg",
-                dark_icon: "/images/home/footerSocialIcon/dribble_dark.svg",
-                link: "https://dribbble.com"
-            },
-            {
                 icon: "/images/home/footerSocialIcon/instagram.svg",
                 dark_icon: "/images/home/footerSocialIcon/instagram_dark.svg",
                 link: "https://www.instagram.com/webxylon"

@@ -34,7 +34,7 @@ export default function Home() {
       {/* ---------------------Innovation section Ends-----------------  */}
 
       {/* ---------------------Online presence section Starts-----------------  */}
-      <OnlinePresence />
+      {/* <OnlinePresence /> */}
       {/* ---------------------Online presence section Ends-----------------  */}
 
       {/* ---------------------Customer Stories section Starts-----------------  */}
